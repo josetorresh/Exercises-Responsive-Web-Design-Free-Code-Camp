@@ -1,0 +1,131 @@
+//Visual Balance Using text-Aling
+text-align property
+
+text-align: justify;
+text-align: center;
+text-align: right;
+text-align: left;
+
+//Adjust the Width of an Element.
+width property CSS[em,px,%]
+
+img {
+  width: 220px;
+}
+
+//Adjust the Heigth of an Element
+height property CSS
+
+img {
+  height: 20px;
+}
+
+//Use the strong Tag to Make Text Bold
+<strong>Harvard University</strong>
+
+//Use the u Tag to Underline Text
+<u>Text</u>
+
+//Use the em Tag to Italicize Text
+<em>Italic>/em>
+
+//Use the s Tag to Strikethrough Text
+<s></s>
+
+//Create a Horizontal Line Using the hr Element
+
+	google
+----------------------
+
+<hr>
+
+//Adjust the background-color Property of Text
+
+rgba(), intead of hex or rgb().
+r = red, g = green, b = blue, a = alpha/level of opacity[1-0]
+
+background-color: rgba(45, 45, 45, 0.1) dark gray color that is nearly transparent
+
+//Adjust the Size of Header Versus a Paragrapg Tag
+
+font-size: To adjust the size of the text in an element.
+
+font-size: 24;
+
+//Add a box-shadow to a Card-like Element
+
+  offset-x, shadow horizontally
+  offser-y, shadow vertically
+  blur-radius,  optional
+  spread-radius, optional
+  color
+
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+
+//Decrease the Opacity of an Element
+1-Opaque
+0-Transparent
+
+Opacity: 0.7;
+
+//Use the text-transform Property to Make Text Uppercase
+
+text-transform: Is used to change the appearance of text.
+
+  lowercase "transfor me"
+  uppercase "TRANSFOR ME"
+  capitalize "Transfor Me"
+  initial Use the default value
+  initial Use the text-transform value from the parent element
+  none: Use the original text
+
+//Set the font-size for Multiple Heading Elements
+
+font size property: is used to specify how large the text is in a given element.
+
+//Set the font-weight for Multiple Heading Elements
+
+font-weight: 500;
+
+//Set the font-size of Paragraph Text
+font-size property in CSS is not limited to headings, it can be appled to any element containing text
+
+//Set the line-height of Paragraphs
+line-height porperty is used to change the height of each line in a block of text
+
+//Adjust the Hover State of an Anchor Tag
+a:hover{
+color: blue;
+}
+
+//Change an element's Relative Position
+  p {
+  position: relative;
+  top: 10px;
+  right: 20px;
+  bottom: 10px;
+  left: 10px;
+  }
+
+//Move a Relatively Positioned Element with CSS Offsets
+
+You're offsetting an element away from a given spot, which moves the element away from the referenced side (effectively, the opposite direction
+
+//Lock an Element to its Parent with Absolute Positioning
+
+position : absolute;
+
+//Lock an Element to the Browser Window with Fixed Positioning
+One key difference between the fixed and absolute positions is that an element with a fixed position won't move when the user scrolls.
+
+position: fixed;
+
+//Push Elements Left or Right with the float Property
+
+position: float;
+
+//Change the Positio|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||																																																																		n of Overlapping Elements with the z-index Property
+
+
+
+
